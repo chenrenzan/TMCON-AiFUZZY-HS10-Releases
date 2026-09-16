@@ -2,7 +2,7 @@
 <item>
   <version>1.08.3</version>
   <url>https://github.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/releases/download/v1.08.3/TMCON-AiFUZZY-HS10-V1.08.3-Setup.exe</url>
-  <changelog>https://github.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/releases/tag/v1.08.3</changelog>
+  <changelog>https://raw.githubusercontent.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/master/updates/release-notes-1.08.3.txt</changelog>
   <mandatory>false</mandatory>
   <checksum algorithm="SHA256">6E6EAB2B3D4C7D3AAD735771B31C6B73115764833DF755A839BF38FEE69A1241</checksum>
 </item>
