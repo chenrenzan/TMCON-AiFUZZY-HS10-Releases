@@ -1,0 +1,17 @@
+TMCON-AiFUZZY-HS10 V1.08.3
+
+更新内容：
+- 首次运行无需注册码，可直接试用 30 天。
+- 试用时间按设备累计，卸载重装不会重置试用期。
+- 增加系统时间回退检测，防止通过修改时间延长试用期。
+- 试用到期后需要使用有效注册码激活。
+- 优化授权状态、剩余试用天数和到期时间显示。
+
+What's new:
+- A 30-day trial is available on first launch without an activation code.
+- The trial period is retained after uninstalling and reinstalling the application.
+- System clock rollback detection prevents unauthorized trial extensions.
+- A valid activation code is required after the trial expires.
+- Improved license status, remaining trial days, and expiry display.
+
+SHA-256: 6E6EAB2B3D4C7D3AAD735771B31C6B73115764833DF755A839BF38FEE69A1241
