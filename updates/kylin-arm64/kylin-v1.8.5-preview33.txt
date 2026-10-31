@@ -1,0 +1,5 @@
+TMCON Kylin ARM64 Preview 33
+
+Gitee-first and GitHub-fallback update checks are isolated from the Windows feed. The client accepts only Linux ARM64 Debian packages and verifies size and SHA-256 before opening the system installer.
+
+This preview has passed Windows host tests. Kylin target installation and interface acceptance are pending.
