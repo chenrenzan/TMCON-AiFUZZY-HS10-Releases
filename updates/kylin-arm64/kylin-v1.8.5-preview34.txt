@@ -1,0 +1,7 @@
+TMCON Kylin ARM64 Preview 34
+
+SCADA live trend, history chart, alarm list, export settings and runtime export controls have been aligned with Windows V1.08.5. The standalone HMI runtime now exposes connect/disconnect, channel settings, device code and full-screen actions. This preview also fixes Windows history binding imports, current-range history exports, background-scene alarms, terminal alarm override identity and first-connection retries.
+
+The Kylin-only update feed stays separate from the Windows feed. Linux ARM64 Debian packages are checked by size and SHA-256 before opening the system installer.
+
+Windows host tests passed. Kylin target installation and interface acceptance are pending.
