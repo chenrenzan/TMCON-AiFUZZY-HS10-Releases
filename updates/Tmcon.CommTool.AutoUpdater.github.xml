@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.08.4</version>
-  <url>https://github.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/releases/download/v1.08.4/TMCON-AiFUZZY-HS10-V1.08.4-Setup.exe</url>
-  <changelog>https://raw.githubusercontent.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/master/updates/release-notes-1.08.4.txt</changelog>
+  <version>1.08.5</version>
+  <url>https://github.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/releases/download/v1.08.5/TMCON-AiFUZZY-HS10-V1.08.5-Setup.exe</url>
+  <changelog>https://raw.githubusercontent.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/master/updates/release-notes-1.08.5.txt</changelog>
   <mandatory>false</mandatory>
-  <checksum algorithm="SHA256">F8CC27F07E7A2646E1FDF014DC673D7B6E193CD4D5C8741D962B6555A923680F</checksum>
+  <checksum algorithm="SHA256">5ABE20BFE890EF9EFC3DE67B8109C9823C63C07D9E2E778065CE3687BD8E0760</checksum>
 </item>
