@@ -1,2 +1,12 @@
-<?xml version='1.0' encoding='utf-8'?>
-<item><version>1.8.6.39</version><os>linux</os><architecture>arm64</architecture><package>deb</package><url>https://github.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/releases/download/kylin-v1.8.6-preview39/tmcon-kylin_1.8.6-preview39_arm64.deb</url><changelog>https://raw.githubusercontent.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/master/updates/kylin-arm64/kylin-v1.8.6-preview39.txt</changelog><mandatory>false</mandatory><size>45035454</size><checksum algorithm="SHA256">70c1e63762baa93aaafb02938dbf86666224298994f6d74047d65c0dde18b886</checksum></item>
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.8.6.40</version>
+  <os>linux</os>
+  <architecture>arm64</architecture>
+  <package>deb</package>
+  <size>45067024</size>
+  <url>https://github.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/releases/download/kylin-v1.8.6-preview40/tmcon-kylin_1.8.6-preview40_arm64.deb</url>
+  <changelog>https://raw.githubusercontent.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/master/updates/kylin-arm64/kylin-v1.8.6-preview40.txt</changelog>
+  <mandatory>false</mandatory>
+  <checksum algorithm="SHA256">58cb552da2034d34cf2a933876ea04a38805c7a770efdd885be2f0d62caddf1e</checksum>
+</item>
