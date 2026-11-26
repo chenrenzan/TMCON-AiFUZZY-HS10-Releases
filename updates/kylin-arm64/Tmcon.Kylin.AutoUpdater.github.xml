@@ -1,12 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-  <version>1.8.6.40</version>
-  <os>linux</os>
-  <architecture>arm64</architecture>
-  <package>deb</package>
-  <size>45067024</size>
-  <url>https://github.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/releases/download/kylin-v1.8.6-preview40/tmcon-kylin_1.8.6-preview40_arm64.deb</url>
-  <changelog>https://raw.githubusercontent.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/master/updates/kylin-arm64/kylin-v1.8.6-preview40.txt</changelog>
-  <mandatory>false</mandatory>
-  <checksum algorithm="SHA256">58cb552da2034d34cf2a933876ea04a38805c7a770efdd885be2f0d62caddf1e</checksum>
-</item>
+<?xml version='1.0' encoding='utf-8'?>
+<item><version>1.8.6.41</version><os>linux</os><architecture>arm64</architecture><package>deb</package><url>https://github.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/releases/download/kylin-v1.8.6-preview41/tmcon-kylin_1.8.6-preview41_arm64.deb</url><changelog>https://raw.githubusercontent.com/chenrenzan/TMCON-AiFUZZY-HS10-Releases/master/updates/kylin-arm64/kylin-v1.8.6-preview41.txt</changelog><mandatory>false</mandatory><size>45076120</size><checksum algorithm="SHA256">cba8b6b6734f6b07eedd84d8dfb82628ea5d9b70c311e1cc0f997d824316ba99</checksum></item>
